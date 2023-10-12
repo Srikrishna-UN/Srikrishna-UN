@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **learning tech stacks**
 
-- 💬 Ask me about **ML, DL, Pytorch and**
+- 💬 Ask me about **ML, DL, Pytorch and stuff in general**
 
 - 📫 How to reach me **srikrishnaun2004@gmail.com**
 
